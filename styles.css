@@ -1,8 +1,9 @@
 
 /* Your CSS Code here. */
 .holder{
-    display: flexbox;
-    justify-content: space-between;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
     background-color: yellow;
 }
 .item{
